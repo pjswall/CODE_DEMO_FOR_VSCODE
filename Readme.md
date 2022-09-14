@@ -1,4 +1,4 @@
-# USER GUIDE TO CREATE README FOR THE REFERENCES 
+# USER GUIDE TO CREATE GIT REPO USING VS-CODE 
 
 Now you can also check how to work on github with the help of VS code you will learn to deal with push commit and add opration.
 
